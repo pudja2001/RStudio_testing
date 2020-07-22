@@ -1,3 +1,3 @@
-print("This file is written in RStudio directory")
+print("this script is written in RStudio")
 
-print("and now it live in GitHub")
+print("and now it lives in github")
